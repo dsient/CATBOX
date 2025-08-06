@@ -4,7 +4,7 @@ In active development.
 
 Made for those who need it.
 
-Repo will include on version 1.0:
-  Virtualbox install
-  Various editions of RPI builds
-  USB-bootable builds (main focus)
+## Repo will include on version 1.0:
+- Virtualbox build
+- Various editions of RPI builds
+- USB-bootable builds (main focus)
